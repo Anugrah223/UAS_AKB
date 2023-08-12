@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DailyNotes 10120018</string>
+
+    //Headings
+    <string name="heading_one">Create By</string>
+    <string name="heading_two">About This Apps</string>
+    <string name="heading_three">Menu in This Apps</string>
+    <string name="heading_fourth">This Apps For</string>
+
+    //Description
+    <string name="desc_one">10120018 - M Anugrah Ikhsan K - IF1</string>
+    <string name="desc_two">Aplikasi ini selesai dibuat oleh 10120018 - M Anugrah Ikhsan K - IF1. Aplikasi ini berisi tentang mengolah catatan harian.</string>
+    <string name="desc_three">Profile, Catatan Harian, About</string>
+    <string name="desc_fourth">Tugas UAS Genap 2023 AKB DailyNotes - 10120018</string>
+</resources>
